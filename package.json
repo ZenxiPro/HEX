@@ -18,10 +18,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Pieczarka_YT/HEX.git"
+		"url": "git+https://github.com/PieczarkaYTT/HEX.git"
 	},
 	"bugs": {
-		"url": "https://github.com/PieczarkaYTT/HEX/issue"
+		"url": "https://github.com/PieczarkaYTT/HEX/issues"
 	},
 	"homepage": "https://github.com/PieczarkaYTT/HEX#readme",
 	"pkg": {
